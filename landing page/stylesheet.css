@@ -1,9 +1,12 @@
 .header {
  height:35px;   
  background-color:#3D60B3;
+    
+}
+ul{
+    display: inline;
 }
 .header h1{
  color: #FFF;   
- text-align: center;
-  
+ text-align: center; 
 }
